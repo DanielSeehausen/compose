@@ -1,14 +1,14 @@
 {
   "name": "@choux/compose",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Compose Classes! There are many like it, but this one is for _you_.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
-	"files": [
-		"index.js"
-	],
+  "files": [
+    "index.js"
+  ],
   "author": "danielseehausen",
   "license": "MIT",
   "devDependencies": {
