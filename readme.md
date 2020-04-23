@@ -157,5 +157,6 @@ FirstSource.overwritableMethod()
 
 SecondSource.overwritableGetter
 // -> 'second compose\'s getter'
+
 SecondSource.overwritableMethod()
 // -> 'second compose\'s method'
