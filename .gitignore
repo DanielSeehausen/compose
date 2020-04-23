@@ -1,0 +1,7 @@
+pids
+*.pid
+*.seed
+coverage
+node_modules
+package-lock.json
+
