@@ -128,7 +128,7 @@ describe('compose', () => {
       expect(Target.secondSourceMethod()).toBe(5678)
     })
 
-    test('composes methods/getters supersede each other according to their position in the array (last compose supersedes first)', () => {
+    test('composed methods/getters supersede each other according to their position in the array (last compose supersedes first)', () => {
       const Target = genTargetClass()
       const FirstSource = genFirstSource()
       const SecondSource = genSecondSource()
